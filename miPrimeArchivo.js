@@ -3,4 +3,4 @@ y = "git"
 nombre = " dario lopez "
 apellido = "lopez"
 
-mascota = "elon"
+mascota = "elon peluche"
